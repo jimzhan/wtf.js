@@ -1,0 +1,8 @@
+{
+  "name": "wtf.js",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/jimzhan/wtf.js",
+  "author": "Jim Zhan <jim.zhan@me.com>",
+  "license": "Apache-2.0"
+}
